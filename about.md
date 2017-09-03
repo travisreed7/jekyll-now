@@ -8,4 +8,4 @@ Senior at UT Austin graduating December 2017
 
 ### Contact me
 
-[email@domain.com](mailto:travis.reed@utexas.edu)
+[travis.reed@utexas.edu](mailto:travis.reed@utexas.edu)
