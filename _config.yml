@@ -15,6 +15,9 @@ avatar: https://github.com/travisreed7/travisreed7.github.io/raw/master/images/T
 # Flags below are optional
 #
 
+# Custom theme
+theme: jekyll-theme-hacker
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
